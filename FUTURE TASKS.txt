@@ -1,0 +1,24 @@
+PORTFOLIO:
+===BUILD A PORTFOLIO WEBSITE (show each an every detail)
+===UPDATE PORTFOLIO DATA USING SANITY
+
+
+
+RESEARCH:
+===LinkedIn.com
+------fiverr.com
+------upwork.com
+------and many traditional non-traditional marketplace
+
+
+
+CLASS STUDIES:
+===Generative AI (research)
+------(for 2-days) upto 06-05-2025
+
+===Object Oriented Programming
+------4 Pillars of OOP(Classes & Objects, Encapsulation, Inheritance, Polymorphism)
+
+
+PROJECTS:
+===Create
